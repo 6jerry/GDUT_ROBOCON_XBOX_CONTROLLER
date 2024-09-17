@@ -1,2 +1,3 @@
 # GDUT_ROBOCON_XBOX_CONTROLLER
 用来连接xbox手柄的，esp32与stm32通过串口通讯，通讯协议见readme
+代码在master分支里面
